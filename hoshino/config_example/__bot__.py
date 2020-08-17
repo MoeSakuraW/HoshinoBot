@@ -42,6 +42,7 @@ MODULES_ON = {
     'yobot',
     'bot_manager_web',
     'buy_potion_reminder',
+    'hiumsentences',
     # 'setu',
     # 'translate',
     # 'twitter',
