@@ -40,6 +40,7 @@ MODULES_ON = {
     'pcrclanbattle',
     'priconne',
     'yobot',
+    'bot_manager_web',
     # 'setu',
     # 'translate',
     # 'twitter',
