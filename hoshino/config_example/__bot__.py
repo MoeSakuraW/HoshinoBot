@@ -43,6 +43,7 @@ MODULES_ON = {
     'bot_manager_web',
     'buy_potion_reminder',
     'hiumsentences',
+    'shebot',
     # 'setu',
     # 'translate',
     # 'twitter',
