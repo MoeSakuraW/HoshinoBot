@@ -44,6 +44,7 @@ MODULES_ON = {
     'buy_potion_reminder',
     'hiumsentences',
     'shebot',
+    'clanrank',
     # 'setu',
     # 'translate',
     # 'twitter',
