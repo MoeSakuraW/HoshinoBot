@@ -3,6 +3,7 @@ config.py
 config.json
 hoshino/config/
 local_coolq_config/
+config.yaml
 
 # Database
 db.json
